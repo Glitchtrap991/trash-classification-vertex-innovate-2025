@@ -1,4 +1,3 @@
-```python
 import os
 import cv2
 import numpy as np
@@ -113,4 +112,3 @@ def predict_from_webcam(model, categories, pca):
 # Run real-time prediction
 print("Starting webcam prediction...")
 predict_from_webcam(best_model, categories, pca)
-```
