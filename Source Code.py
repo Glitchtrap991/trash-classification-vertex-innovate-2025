@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split, cross_val_score, GridSearc
 from sklearn.metrics import accuracy_score
 
 # Set dataset path
-dataset_path = "C:\\Users\\Aparajith\\TrashTrain\\archive\\garbage-dataset"
+dataset_path = "C:\\Users\\Aparajith\\TrashTrain\\archive\\garbage-dataset" #Use your directory where the training images are stored.
 categories = ["cardboard", "glass", "metal", "paper", "plastic", "trash", "biological", "battery", "shoes", "clothes"]
 
 # Function to preprocess a single image
