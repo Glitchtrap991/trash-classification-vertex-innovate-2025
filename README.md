@@ -9,6 +9,10 @@ A **Random Forest Classifier** trained on a dataset of waste images enables auto
 
 ---
 
+# Dataset for Training :
+
+https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+
 # 🔧 Installation
 
 Clone this repository and install the necessary dependencies:
